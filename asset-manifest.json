@@ -1,26 +1,25 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.e16032d7.chunk.css",
-    "main.js": "/home/static/js/main.092bb13b.chunk.js",
-    "main.js.map": "/home/static/js/main.092bb13b.chunk.js.map",
+    "main.css": "/home/static/css/main.956fad23.chunk.css",
+    "main.js": "/home/static/js/main.0dcdedab.chunk.js",
+    "main.js.map": "/home/static/js/main.0dcdedab.chunk.js.map",
     "runtime-main.js": "/home/static/js/runtime-main.3c590061.js",
     "runtime-main.js.map": "/home/static/js/runtime-main.3c590061.js.map",
-    "static/js/2.42c2acec.chunk.js": "/home/static/js/2.42c2acec.chunk.js",
-    "static/js/2.42c2acec.chunk.js.map": "/home/static/js/2.42c2acec.chunk.js.map",
+    "static/js/2.7303e263.chunk.js": "/home/static/js/2.7303e263.chunk.js",
+    "static/js/2.7303e263.chunk.js.map": "/home/static/js/2.7303e263.chunk.js.map",
     "index.html": "/home/index.html",
-    "precache-manifest.c62922e2c09de31b2b350d11231de5c8.js": "/home/precache-manifest.c62922e2c09de31b2b350d11231de5c8.js",
+    "precache-manifest.33638fc1f0709a36abfef640e79d0ce6.js": "/home/precache-manifest.33638fc1f0709a36abfef640e79d0ce6.js",
     "service-worker.js": "/home/service-worker.js",
-    "static/css/main.e16032d7.chunk.css.map": "/home/static/css/main.e16032d7.chunk.css.map",
-    "static/js/2.42c2acec.chunk.js.LICENSE.txt": "/home/static/js/2.42c2acec.chunk.js.LICENSE.txt",
-    "static/media/afreebird.png": "/home/static/media/afreebird.f6dae0cc.png",
-    "static/media/biopic.png": "/home/static/media/biopic.e21ad79b.png",
-    "static/media/jpmc.png": "/home/static/media/jpmc.80c178f4.png",
-    "static/media/resume.pdf": "/home/static/media/resume.7a5c8e05.pdf"
+    "static/css/main.956fad23.chunk.css.map": "/home/static/css/main.956fad23.chunk.css.map",
+    "static/js/2.7303e263.chunk.js.LICENSE.txt": "/home/static/js/2.7303e263.chunk.js.LICENSE.txt",
+    "static/media/hashirshoaeb.png": "/home/static/media/hashirshoaeb.32f6b574.png",
+    "static/media/profilePic.jpg": "/home/static/media/profilePic.20be6d33.jpg",
+    "static/media/resume.pdf": "/home/static/media/resume.c5153adf.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.3c590061.js",
-    "static/js/2.42c2acec.chunk.js",
-    "static/css/main.e16032d7.chunk.css",
-    "static/js/main.092bb13b.chunk.js"
+    "static/js/2.7303e263.chunk.js",
+    "static/css/main.956fad23.chunk.css",
+    "static/js/main.0dcdedab.chunk.js"
   ]
 }
